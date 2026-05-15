@@ -1,0 +1,9 @@
+{
+    "name": "zmigrate-marketplace",
+    "plugins": [
+      {
+        "name": "zmigrate-skill",
+        "path": "plugins/zmigrate-skill"
+      }
+    ]
+}
