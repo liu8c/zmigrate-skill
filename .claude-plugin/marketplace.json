@@ -1,5 +1,8 @@
 {
     "name": "zmigrate-marketplace",
+    "owner": {
+      "name": "liu8c"
+    },
     "plugins": [
       {
         "name": "zmigrate-skill",
