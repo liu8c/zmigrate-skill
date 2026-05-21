@@ -1,0 +1,8 @@
+ {
+    "name": "zmigrate-skill",
+    "version": "1.0.0",
+    "description": "ZMigrate local knowledge base skill for Claude Code",
+    "author": {
+      "name": "liu8c"
+    }
+  }
