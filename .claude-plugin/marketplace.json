@@ -1,0 +1,20 @@
+{ 
+    "name": "zmigrate-marketplace",
+    "owner": {
+      "name": "liu8c"
+    },
+    "metadata": { 
+      "description": "ZMigrate 本地知识库助手，用于快速查询安装部署、同步切换、日志排障和操作经验文档。",
+      "version": "1.0.0"
+    },
+    "plugins": [
+      {
+        "name": "zmigrate-skill",
+        "description": "优先检索本地 zmigrate 知识库并结合当前问题回答。",
+        "source": "./plugins/zmigrate-skill",
+        "skills": [
+          "./plugins/zmigrate-skill/skills/zmigrate"
+        ]
+      }
+    ]
+  }
